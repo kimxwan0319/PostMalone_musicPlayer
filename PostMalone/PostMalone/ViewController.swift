@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  MyMusic
-//
-//  Created by Afraz Siddiqui on 4/3/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
