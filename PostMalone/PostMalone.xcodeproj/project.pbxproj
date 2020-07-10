@@ -24,6 +24,7 @@
 		92BCDC2E24B74CEF0093AADB /* TommyLee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC2D24B74CEF0093AADB /* TommyLee.mp3 */; };
 		92BCDC3024B74ED10093AADB /* Forever.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC2F24B74ED10093AADB /* Forever.mp3 */; };
 		92BCDC3224B751150093AADB /* Hollywood'sBleeding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */; };
+		92BCDC3424B7563D0093AADB /* BetterNow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC3324B7563D0093AADB /* BetterNow.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		92BCDC2D24B74CEF0093AADB /* TommyLee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TommyLee.mp3; sourceTree = "<group>"; };
 		92BCDC2F24B74ED10093AADB /* Forever.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forever.mp3; sourceTree = "<group>"; };
 		92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hollywood'sBleeding.mp3"; sourceTree = "<group>"; };
+		92BCDC3324B7563D0093AADB /* BetterNow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BetterNow.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				92BCDC2D24B74CEF0093AADB /* TommyLee.mp3 */,
 				92BCDC2F24B74ED10093AADB /* Forever.mp3 */,
 				92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */,
+				92BCDC3324B7563D0093AADB /* BetterNow.mp3 */,
 				83CEC37B24376D4A00188BF6 /* AppDelegate.swift */,
 				83CEC37D24376D4A00188BF6 /* SceneDelegate.swift */,
 				83CEC37F24376D4A00188BF6 /* ViewController.swift */,
@@ -169,6 +172,7 @@
 				83CEC38524376D4B00188BF6 /* Assets.xcassets in Resources */,
 				83CEC38324376D4A00188BF6 /* Main.storyboard in Resources */,
 				92BCDC2524B736ED0093AADB /* Circles.mp3 in Resources */,
+				92BCDC3424B7563D0093AADB /* BetterNow.mp3 in Resources */,
 				92BCDC3024B74ED10093AADB /* Forever.mp3 in Resources */,
 				92BCDC2E24B74CEF0093AADB /* TommyLee.mp3 in Resources */,
 			);
