@@ -69,6 +69,17 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                           artistName: "Post Malone",
                           imageName: "cover2",
                           trackName: "BetterNow"))
+        songs.append(Song(name: "I'm Gonna Be",
+                          albumName: "Hollywood's Bleeding",
+                          artistName: "Post Malone",
+                          imageName: "cover1",
+                          trackName: "ImGonnaBe"))
+        songs.append(Song(name: "rockstar",
+                          albumName: "beerbongs & bentleys",
+                          artistName: "Post Malone",
+                          imageName: "cover2",
+                          trackName: "rockstar"))
+        
 
     }
 

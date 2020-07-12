@@ -150,9 +150,9 @@ class PlayerViewController: UIViewController {
 
         // Styling
 
-        playPauseButton.setBackgroundImage(UIImage(systemName: "pause.fill"), for: .normal)
-        backButton.setBackgroundImage(UIImage(systemName: "backward.fill"), for: .normal)
-        nextButton.setBackgroundImage(UIImage(systemName: "forward.fill"), for: .normal)
+        playPauseButton.setBackgroundImage(UIImage(systemName: "pause"), for: .normal)
+        backButton.setBackgroundImage(UIImage(systemName: "backward"), for: .normal)
+        nextButton.setBackgroundImage(UIImage(systemName: "forward"), for: .normal)
 
         playPauseButton.tintColor = .black
         backButton.tintColor = .black
@@ -199,7 +199,7 @@ class PlayerViewController: UIViewController {
             // pause
             player?.pause()
             // show play button
-            playPauseButton.setBackgroundImage(UIImage(systemName: "play.fill"), for: .normal)
+            playPauseButton.setBackgroundImage(UIImage(systemName: "play"), for: .normal)
 
             // shrink image
             UIView.animate(withDuration: 0.2, animations: {
@@ -212,7 +212,7 @@ class PlayerViewController: UIViewController {
         else {
             // play
             player?.play()
-            playPauseButton.setBackgroundImage(UIImage(systemName: "pause.fill"), for: .normal)
+            playPauseButton.setBackgroundImage(UIImage(systemName: "pause"), for: .normal)
 
             // increase image size
             UIView.animate(withDuration: 0.2, animations: {

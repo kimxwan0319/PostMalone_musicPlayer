@@ -14,6 +14,7 @@
 		83CEC38524376D4B00188BF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83CEC38424376D4B00188BF6 /* Assets.xcassets */; };
 		83CEC38824376D4B00188BF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83CEC38624376D4B00188BF6 /* LaunchScreen.storyboard */; };
 		83CEC3972437702600188BF6 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83CEC3962437702600188BF6 /* PlayerViewController.swift */; };
+		921DF8D824BAB179000C6A49 /* rockstar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 921DF8D724BAB179000C6A49 /* rockstar.mp3 */; };
 		92BCDC2424B736ED0093AADB /* MySelf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC1F24B736ED0093AADB /* MySelf.mp3 */; };
 		92BCDC2524B736ED0093AADB /* Circles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC2024B736ED0093AADB /* Circles.mp3 */; };
 		92BCDC2624B736ED0093AADB /* Goodbyes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC2124B736ED0093AADB /* Goodbyes.mp3 */; };
@@ -25,6 +26,7 @@
 		92BCDC3024B74ED10093AADB /* Forever.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC2F24B74ED10093AADB /* Forever.mp3 */; };
 		92BCDC3224B751150093AADB /* Hollywood'sBleeding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */; };
 		92BCDC3424B7563D0093AADB /* BetterNow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC3324B7563D0093AADB /* BetterNow.mp3 */; };
+		92BCDC4924B86FAD0093AADB /* ImGonnaBe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92BCDC4824B86FAD0093AADB /* ImGonnaBe.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,7 @@
 		83CEC38724376D4B00188BF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83CEC38924376D4B00188BF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83CEC3962437702600188BF6 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		921DF8D724BAB179000C6A49 /* rockstar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rockstar.mp3; sourceTree = "<group>"; };
 		92BCDC1F24B736ED0093AADB /* MySelf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MySelf.mp3; sourceTree = "<group>"; };
 		92BCDC2024B736ED0093AADB /* Circles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Circles.mp3; sourceTree = "<group>"; };
 		92BCDC2124B736ED0093AADB /* Goodbyes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Goodbyes.mp3; sourceTree = "<group>"; };
@@ -48,6 +51,7 @@
 		92BCDC2F24B74ED10093AADB /* Forever.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forever.mp3; sourceTree = "<group>"; };
 		92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hollywood'sBleeding.mp3"; sourceTree = "<group>"; };
 		92BCDC3324B7563D0093AADB /* BetterNow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BetterNow.mp3; sourceTree = "<group>"; };
+		92BCDC4824B86FAD0093AADB /* ImGonnaBe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ImGonnaBe.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 				92BCDC2F24B74ED10093AADB /* Forever.mp3 */,
 				92BCDC3124B751150093AADB /* Hollywood'sBleeding.mp3 */,
 				92BCDC3324B7563D0093AADB /* BetterNow.mp3 */,
+				92BCDC4824B86FAD0093AADB /* ImGonnaBe.mp3 */,
+				921DF8D724BAB179000C6A49 /* rockstar.mp3 */,
 				83CEC37B24376D4A00188BF6 /* AppDelegate.swift */,
 				83CEC37D24376D4A00188BF6 /* SceneDelegate.swift */,
 				83CEC37F24376D4A00188BF6 /* ViewController.swift */,
@@ -164,8 +170,10 @@
 				92BCDC2424B736ED0093AADB /* MySelf.mp3 in Resources */,
 				83CEC38824376D4B00188BF6 /* LaunchScreen.storyboard in Resources */,
 				92BCDC2724B736ED0093AADB /* Psycho.mp3 in Resources */,
+				921DF8D824BAB179000C6A49 /* rockstar.mp3 in Resources */,
 				92BCDC2A24B748770093AADB /* TakeWhatYouWant.mp3 in Resources */,
 				92BCDC2824B736ED0093AADB /* aThousandBadTimes.mp3 in Resources */,
+				92BCDC4924B86FAD0093AADB /* ImGonnaBe.mp3 in Resources */,
 				92BCDC3224B751150093AADB /* Hollywood'sBleeding.mp3 in Resources */,
 				92BCDC2624B736ED0093AADB /* Goodbyes.mp3 in Resources */,
 				92BCDC2C24B74C4D0093AADB /* Sunflower.mp3 in Resources */,
